@@ -3,7 +3,6 @@ from google import genai
 from dotenv import load_dotenv
 import time
 
-load_dotenv(r"C:\Users\Sanky\Desktop\training_Python_batch1\GenAI\google_gemini\.env")
 
 client = genai.Client()
 
